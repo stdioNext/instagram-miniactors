@@ -5,7 +5,7 @@
     "schemaVersion": 1,
     "properties": {
         "usernames": {
-            "title": "Instagram username(s)",
+            "title": "Mert: Instagram username(s)",
             "type": "array",
             "description": "Provide a profile URL of the account you want to scrape the posts from.",
             "editor": "stringList",
